@@ -1,0 +1,17 @@
+{
+    "dataset_type": "Synthetic demonstration data",
+    "raw_sales_rows": 4391,
+    "clean_sales_rows": 4390,
+    "exact_duplicate_sales_rows": 0,
+    "raw_missing_payment_rows": 1,
+    "raw_invalid_quantity_rows": 1,
+    "raw_missing_date_rows": 0,
+    "raw_missing_transaction_id_rows": 0,
+    "unknown_product_rows_removed": 0,
+    "revenue_mismatch_rows_detected": 0,
+    "clean_unique_transactions": 2000,
+    "clean_product_count": 44,
+    "clean_inventory_rows": 3960,
+    "clean_stock_movement_rows": 375,
+    "clean_sales_revenue_kes": 2214810.0
+}
