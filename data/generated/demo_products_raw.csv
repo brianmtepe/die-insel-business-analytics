@@ -1,0 +1,45 @@
+product_id,product_name,category,subcategory,unit_price_kes,price_status,demo_unit_price_kes,price_source
+P001,Whole chicken,Food,Chicken,1600.0,Menu-listed,1600.0,Menu-listed reference
+P002,Half chicken,Food,Chicken,900.0,Menu-listed,900.0,Menu-listed reference
+P003,Quarter chicken,Food,Chicken,600.0,Menu-listed,600.0,Menu-listed reference
+P004,Chicken satay skewers,Food,Chicken,650.0,Menu-listed,650.0,Menu-listed reference
+P005,Chicken bites,Food,Chicken,650.0,Menu-listed,650.0,Menu-listed reference
+P006,Chicken skewer,Food,Snacks and sides,100.0,Menu-listed,100.0,Menu-listed reference
+P007,Sausage,Food,Snacks and sides,70.0,Menu-listed,70.0,Menu-listed reference
+P008,Sausage beef pork choma,Food,Sausage,400.0,Menu-listed,400.0,Menu-listed reference
+P009,Chips,Food,Snacks and sides,200.0,Menu-listed,200.0,Menu-listed reference
+P010,Salad,Food,Snacks and sides,300.0,Menu-listed,300.0,Menu-listed reference
+P011,Chips and salad,Food,Snacks and sides,250.0,Menu-listed,250.0,Menu-listed reference
+P012,Spinach,Food,Sides,70.0,Menu-listed,70.0,Menu-listed reference
+P013,Rice,Food,Sides,100.0,Menu-listed,100.0,Menu-listed reference
+P014,Ugali,Food,Sides,50.0,Menu-listed,50.0,Menu-listed reference
+P015,Octopus,Food,Seafood,1300.0,Menu-listed,1300.0,Menu-listed reference
+P016,Samosa vegetable,Food,Snacks and sides,,Price-confirmation-required,70.0,Synthetic demonstration assumption
+P017,Samosa beef,Food,Snacks and sides,,Price-confirmation-required,70.0,Synthetic demonstration assumption
+P018,Whole fish,Food,Seafood,,Daily-price,850.0,Synthetic demonstration assumption
+P019,Guinness,Beverage,Beer and cider,350.0,Menu-listed,350.0,Menu-listed reference
+P020,Pilsner,Beverage,Beer and cider,350.0,Menu-listed,350.0,Menu-listed reference
+P021,White Cap,Beverage,Beer and cider,350.0,Menu-listed,350.0,Menu-listed reference
+P022,Tusker Malt,Beverage,Beer and cider,350.0,Menu-listed,350.0,Menu-listed reference
+P023,Tusker Lager,Beverage,Beer and cider,300.0,Menu-listed,300.0,Menu-listed reference
+P024,Tusker Cider,Beverage,Beer and cider,350.0,Menu-listed,350.0,Menu-listed reference
+P025,Smirnoff 350ml,Beverage,Spirits,750.0,Menu-listed,750.0,Menu-listed reference
+P026,Smirnoff Black Ice,Beverage,Spirits,300.0,Menu-listed,300.0,Menu-listed reference
+P027,Smirnoff Guarana,Beverage,Spirits,300.0,Menu-listed,300.0,Menu-listed reference
+P028,Chrome Vodka 250ml,Beverage,Spirits,350.0,Menu-listed,350.0,Menu-listed reference
+P029,Chrome Vodka 750ml,Beverage,Spirits,1000.0,Menu-listed,1000.0,Menu-listed reference
+P030,Chrome Gin 250ml,Beverage,Spirits,350.0,Menu-listed,350.0,Menu-listed reference
+P031,Chrome Gin 750ml,Beverage,Spirits,1000.0,Menu-listed,1000.0,Menu-listed reference
+P032,Best Gin 250ml,Beverage,Spirits,400.0,Menu-listed,400.0,Menu-listed reference
+P033,Best Whisky 250ml,Beverage,Spirits,450.0,Menu-listed,450.0,Menu-listed reference
+P034,Spiced Golden Spirit 250ml,Beverage,Spirits,350.0,Menu-listed,350.0,Menu-listed reference
+P035,Soda,Beverage,Non-alcoholic,100.0,Menu-listed,100.0,Menu-listed reference
+P036,Coca-Cola,Beverage,Non-alcoholic,,Price-confirmation-required,100.0,Synthetic demonstration assumption
+P037,Coke Zero,Beverage,Non-alcoholic,,Price-confirmation-required,100.0,Synthetic demonstration assumption
+P038,Krest Bitter Lemon,Beverage,Non-alcoholic,,Price-confirmation-required,100.0,Synthetic demonstration assumption
+P039,Sprite,Beverage,Non-alcoholic,,Price-confirmation-required,100.0,Synthetic demonstration assumption
+P040,Fanta Blackcurrant,Beverage,Non-alcoholic,,Price-confirmation-required,100.0,Synthetic demonstration assumption
+P041,Fanta Orange,Beverage,Non-alcoholic,,Price-confirmation-required,100.0,Synthetic demonstration assumption
+P042,Fanta Pineapple,Beverage,Non-alcoholic,,Price-confirmation-required,100.0,Synthetic demonstration assumption
+P043,Water Large,Beverage,Non-alcoholic,150.0,Menu-listed,150.0,Menu-listed reference
+P044,Water Small,Beverage,Non-alcoholic,100.0,Menu-listed,100.0,Menu-listed reference
